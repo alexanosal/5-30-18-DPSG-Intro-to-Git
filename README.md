@@ -10,3 +10,6 @@
 -git commit -m will allow you to save file at one time
 -using git in rstudio 
 
+
+
+weeeeeeeeeeee
