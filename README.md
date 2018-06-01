@@ -1,4 +1,5 @@
 
+#Branch 2 edit
 # Intro to git DSPG
 -`git init`: initialize a reposotory
 	-only type this once, do not 'nest' your repositorie
@@ -16,5 +17,5 @@
 -use 'git checkout MY_BRANCH_NAME' to go to that branch
 -loook at where things are using git checkout and git log
 
-
+#second branch
 
