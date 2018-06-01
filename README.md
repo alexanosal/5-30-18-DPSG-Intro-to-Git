@@ -11,5 +11,10 @@
 -using git in rstudio 
 
 #Commit Review
+#Branching in Git
+-use 'git branch MY_BRANCH_NAME' to create a new brance
+-use 'git checkout MY_BRANCH_NAME' to go to that branch
+-loook at where things are using git checkout and git log
+
 
 
