@@ -19,3 +19,5 @@
 
 #second branch
 automerge happens when you edit a file in different locationssss
+
+how to push to git hub
