@@ -18,4 +18,4 @@
 -loook at where things are using git checkout and git log
 
 #second branch
-
+automerge happens when you edit a file in different locationssss
