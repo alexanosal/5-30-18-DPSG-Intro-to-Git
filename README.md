@@ -10,6 +10,10 @@
 -git commit -m will allow you to save file at one time
 -using git in rstudio 
 
+#Branching in Git
+-use 'git branch MY_BRANCH_NAME' to create a new brance
+-use 'git checkout MY_BRANCH_NAME' to go to that branch
+-loook at where things are using git checkout and git log
 
 
 
